@@ -1,0 +1,48 @@
+{
+  "name": "store",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "bootstrap": "latest",
+    "bower": "^1.8.8",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase": "^6.1.0",
+    "firebaseui": "^4.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.2.6",
+    "mongoose": "^5.5.12",
+    "nodemon": "^1.19.1",
+    "react": "latest",
+    "react-async-script-loader": "^0.3.0",
+    "react-dom": "latest",
+    "react-paypal-express-checkout": "^1.0.5",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "latest",
+    "styled-components": "^4.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "dotenv": "^6.2.0"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
